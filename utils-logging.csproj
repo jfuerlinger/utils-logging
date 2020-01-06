@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>JFuerlinger.Utils</RootNamespace>
+    <PackageId>JFuerlinger.Utils.Logger</PackageId>
+    <Authors>Josef Fürlinger</Authors>
+    <Company>JFuerlinger</Company>
+    <Description>Library to log app infos</Description>
+    <PackageTags>Logging, Logger, Log</PackageTags>
+    <RepositoryUrl>https://github.com/jfuerlinger/utils-logging</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>

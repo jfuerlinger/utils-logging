@@ -9,6 +9,7 @@
     <Description>Library to log app infos</Description>
     <PackageTags>Logging, Logger, Log</PackageTags>
     <RepositoryUrl>https://github.com/jfuerlinger/utils-logging</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
 </Project>
